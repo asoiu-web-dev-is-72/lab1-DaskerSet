@@ -1,0 +1,84 @@
+.main {
+	/*width: 1140px;
+*/	margin: 0 auto;
+	margin-bottom: 20px;
+	background-color: rgba(153,255,153, .5);
+	background-image: url(../images/road.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+	/*border: 3px solid grey;*/
+}
+.main_block {
+	width: 600px;
+	margin: 0 auto;
+	background-color: rgba(192,192,192, .75);
+	padding-bottom: 40px;
+}
+
+.links_top {
+	width: 300px;
+	margin: 0 auto;
+}
+.story_table {
+	width: 422px;
+	border: 1px solid black;
+    margin: 0 auto;
+}
+.links_add {
+	width: 450px;
+    margin: 0 auto;
+}
+.push_btn {
+	margin: 0 auto;
+	width: 251px;
+}
+.push_btn:hover {
+	width: 251px;
+	margin: 0 auto;
+	border-radius: 50%;
+	box-shadow:0 25px 20px grey;
+}
+h1 {
+	font-size: 50px;
+}
+h1, h2 {
+	padding-top: 20px;
+	text-align: center;
+	font-family: znikomitregular;
+}
+a {
+	outline: none;
+	text-decoration: none;
+	color: #003366;
+}
+a:hover {
+	text-decoration: underline;
+}
+a:visited {
+	color: #660033;
+}
+.img_btm {
+	margin: 0 auto;
+	width: 251px;
+	border-radius: 50%;
+    box-shadow:0 10px 10px grey;
+}
+table {
+	border-collapse: collapse;
+}
+tr {
+	background: lightblue;
+}
+.t_row {
+	border-top: 1px solid black;
+	background: lightblue;
+}
+.t_row:hover { 
+	background: rgb(0,153,153); 
+}
+th {
+	font-family: znikomitregular;
+	font-size: 30px;
+	background-color: rgb(0,102,102);
+}
